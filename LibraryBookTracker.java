@@ -26,7 +26,7 @@ public class LibraryBookTracker {
 
     /**
      * Entry point of the program
-     * Reads the catalog file first, then runs the requested operation and performs
+     * Reads the catalog file first, then executes the requested operation
      * 
      * @param args args[0] is the catalog file path, and args[1] is the operation
      */
